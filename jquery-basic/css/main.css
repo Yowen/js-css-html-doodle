@@ -1,0 +1,37 @@
+.main-content {
+    display: inline-block;
+}
+
+.ui-message {
+    margin: 10px;
+    padding: 10px;
+}
+
+.ui-message h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#first-block {
+    background: tan;
+}
+
+#second-block {
+    background: pink;
+}
+
+#second-block h2:hover {
+    color: blue;
+}
+
+#third-block {
+    background: lightblue;
+}
+
+#fourth-block {
+    background: lightcoral;
+}
+
+#fifth-block {
+    background: lightsalmon;
+}

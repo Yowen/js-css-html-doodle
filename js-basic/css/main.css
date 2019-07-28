@@ -1,0 +1,17 @@
+html {
+    background: lightgray;
+}
+
+#our-headline {
+    margin-top: 0px;
+}
+#main-content {
+    display: inline-block;
+    background: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.active {
+    background: beige;
+}
